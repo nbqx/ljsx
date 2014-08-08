@@ -1,0 +1,12 @@
+# literate extendscript
+
+[literate programming](http://en.wikipedia.org/wiki/Literate_programming) for adobe extendscript
+
+    #target InDesign-7.0
+    alert('ok');
+
+sample code:
+
+```jsx
+alert('jsx');
+```
