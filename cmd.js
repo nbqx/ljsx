@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var fs = require('fs'),
     argv = require('yargs').argv;
 var ljsx = require('./');
